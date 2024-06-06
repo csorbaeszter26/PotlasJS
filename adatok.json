@@ -1,0 +1,49 @@
+{
+    "kerdesek": [
+        {
+            "id": 1,
+            "kategoria": "természetvédelem",
+            "kerdes": "Első kérdés",
+            "valasz1": "Első válasz",
+            "valasz2": "Második válasz",
+            "valasz3": "Harmadik válasz",
+            "helyesValasz": "Negyedik válasz"
+        },
+        {
+            "id": 2,
+            "kategoria": "természetvédelem",
+            "kerdes": "Második kérdés",
+            "valasz1": "Első válasz",
+            "valasz2": "Második válasz",
+            "valasz3": "Harmadik válasz",
+            "helyesValasz": "Negyedik válasz"  
+        },
+        {
+            "id": 3,
+            "kategoria": "természetvédelem",
+            "kerdes": "Harmadik kérdés",
+            "valasz1": "Első válasz",
+            "valasz2": "Második válasz",
+            "valasz3": "Harmadik válasz",
+            "helyesValasz": "Negyedik válasz"
+        },
+        {
+            "id": 4,
+            "kategoria": "kek",
+            "kerdes": "Negyedik kérdés",
+            "valasz1": "Első válasz",
+            "valasz2": "Második válasz",
+            "valasz3": "Harmadik válasz",
+            "helyesValasz": "Negyedik válasz"  
+        },
+        {
+            "id": 5,
+            "kategoria": "zold",
+            "kerdes": "Ötödik kérdés",
+            "valasz1": "Első válasz",
+            "valasz2": "Második válasz",
+            "valasz3": "Harmadik válasz",
+            "helyesValasz": "Negyedik válasz"
+        }
+    ]
+}

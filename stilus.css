@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+
+.nagydoboz{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+.csakvalaszok{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    /*display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;*/
+}
+.kerdes {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.valasz{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    /*flex: 0 0 200px;*/
+}
+.valasz:hover{
+    cursor:pointer;
+}
+
+
+
+@media only screen and (max-width: 900px) {
+    .kerdes{
+        text-align: center;
+    }
+}
